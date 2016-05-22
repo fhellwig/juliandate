@@ -1,0 +1,23 @@
+{
+  "name": "juliandate",
+  "version": "1.0.0",
+  "description": "Provides the JulianDate class.",
+  "main": "juliandate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhellwig/juliandate.git"
+  },
+  "keywords": [
+    "Julian",
+    "Date"
+  ],
+  "author": "Frank Hellwig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhellwig/juliandate/issues"
+  },
+  "homepage": "https://github.com/fhellwig/juliandate#readme"
+}
